@@ -33,3 +33,6 @@ Integer Square Grid (uses square pixels):
 - "Hide Overlay When Controller Is Connected" Set this to OFF
 - "Auto-Scale Overlay" Set this to OFF
 
+
+
+***Note: These overlays are 100% compatible with the Ayaneo Pocket DMG, as they both use the same screen***
