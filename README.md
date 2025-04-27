@@ -25,7 +25,7 @@ Just mess around and see what you like.
 
 
 ![Screenshot_20250426-175519](https://github.com/user-attachments/assets/66cf548b-a945-42fe-960f-72699a567be6)
-*** Using GBC_1240_grid_integer_2px_white, Overlay Opacity at .20, Integer Scale ON, and Aspect Ratio set to Core Provided***
+***Using GBC_1240_grid_integer_2px_white, Overlay Opacity at .20, Integer Scale ON, and Aspect Ratio set to Core Provided***
 
 ![Screenshot_20250426-175404](https://github.com/user-attachments/assets/47fc2114-30e0-48e4-9ee0-a85646fd1bd9)
 ***Using GBC_1240_grid_integer_2px, Overlay Opacity at .20, Integer Scale ON, and Aspect Ratio set to Core Provided***
