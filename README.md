@@ -1,12 +1,12 @@
-Please note that there are multiple options available here:
+***Please note that there are multiple options available here:***
 
-GBC_1240_grid_fullscreen & GBC_1240_grid_fullscreen_white -
+***GBC_1240_grid_fullscreen & GBC_1240_grid_fullscreen_white -***
 
 One folder utilizes black gridlines, and the other utilizes white gridlines. These are both created to use the full screen of the Retroid Pocket Classic or Ayaneo Pocket DMG. They both have a 1240x1080 screen with an 8:7 aspect ratio.
 
 
 
-GBC_1240_grid_integer & GBC_1240_grid_integer_white -
+***GBC_1240_grid_integer & GBC_1240_grid_integer_white -***
 
 One folder utilizes black gridlines, and the other utilizes white gridlines.
 These are both created to be used with perfect integer scaling utilizing the Retroid Pocket Classic or Ayaneo Pocket DMG screens, keeping the GB/GBC 10:9 aspect ratio.
@@ -25,16 +25,16 @@ Just mess around and see what you like.
 
 
 ![Screenshot_20250426-175519](https://github.com/user-attachments/assets/66cf548b-a945-42fe-960f-72699a567be6)
-* Using GBC_1240_grid_integer_2px_white, Overlay Opacity at .20, Integer Scale ON, and Aspect Ratio set to Core Provided
+*** Using GBC_1240_grid_integer_2px_white, Overlay Opacity at .20, Integer Scale ON, and Aspect Ratio set to Core Provided***
 
 ![Screenshot_20250426-175404](https://github.com/user-attachments/assets/47fc2114-30e0-48e4-9ee0-a85646fd1bd9)
-*Using GBC_1240_grid_integer_2px, Overlay Opacity at .20, Integer Scale ON, and Aspect Ratio set to Core Provided
+***Using GBC_1240_grid_integer_2px, Overlay Opacity at .20, Integer Scale ON, and Aspect Ratio set to Core Provided***
 
 ![Screenshot_20250426-180325](https://github.com/user-attachments/assets/9ec671b6-bf6b-489c-bfa5-7f32e36211bb)
-*Using GBC_1240_grid_2px_white, Overlay Opacity at .20, Integer scale OFF, and Aspect Ratio set to 8:7
+***Using GBC_1240_grid_2px_white, Overlay Opacity at .20, Integer scale OFF, and Aspect Ratio set to 8:7***
 
 ![Screenshot_20250426-180349](https://github.com/user-attachments/assets/d5f8d556-d637-4848-b319-9171739c5724)
-*Using GBC_1240_grid_2px, Overlay Opacity at .20, Integer scale OFF, and Aspect Ratio set to 8:7
+***Using GBC_1240_grid_2px, Overlay Opacity at .20, Integer scale OFF, and Aspect Ratio set to 8:7***
 
 
 
