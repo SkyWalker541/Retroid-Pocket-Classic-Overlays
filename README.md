@@ -9,6 +9,8 @@ Integer Grid:
 - White Gridline with 1,2, and 3 pixel width varients.
 
 
+
+
 ***GBA Overlays***
 
 Fullscreen Grid:
@@ -22,6 +24,8 @@ Integer Aspect Grid (mimics the rectangle shape of GBA pixels):
 Integer Square Grid (uses square pixels):
 - Black Gridlines with 1,2, and 3 pixel width varients.
 - White Gridlines with 1,2, and 3 pixel width varients.
+
+
 
 
 ***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU***
