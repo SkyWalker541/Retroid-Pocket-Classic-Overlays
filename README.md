@@ -1,3 +1,5 @@
+***Disclaimer: Please don't be too critical of my work. This is my first attempt at making Overlays***
+
 ***GBC Overlays***
 
 Fullscreen Stretch Grid:
