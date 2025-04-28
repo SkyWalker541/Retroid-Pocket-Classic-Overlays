@@ -52,5 +52,5 @@ Photo: GBA_1240_grid_integer_1px_black with Opacity set to 1.00
 
 ***Note: These overlays are 100% compatible with the Ayaneo Pocket DMG, as they both use the same screen***
 
-***Note: Added "Experimental" folder containing PS1 and 4_3 systems. They are staying in experimental for now...***
+***Note: Added "Experimental" folder containing overlays for 4_3 systems. They are staying in experimental for now...***
 
