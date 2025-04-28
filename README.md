@@ -1,3 +1,5 @@
+***Updated GBA Overlays***
+
 ***Disclaimer: Please don't be too critical of my work. This is my first attempt at making Overlays***
 
 
@@ -20,21 +22,17 @@ Fullscreen Grid:
 - Black Gridlines with 1,2, and 3 pixel width varients.
 - White Gridlines with 1,2, and 3 pixel width varients.
 
-Integer Aspect Grid (mimics the rectangle shape of GBA pixels):
+Integer Grid:
 - Black Gridlines with 1,2, and 3 pixel width varients.
 - White Gridlines with 1,2, and 3 pixel width varients.
-
-Integer Square Grid (uses square pixels):
-- Black Gridlines with 1,2, and 3 pixel width varients.
-- White Gridlines with 1,2, and 3 pixel width varients.
-
-
 
 
 ***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU***
 
 - "Hide Overlay When Controller Is Connected" Set this to OFF
 - "Auto-Scale Overlay" Set this to OFF
+- I also recommend messing with the overlay Opacity. See how you like it.
+
 
 
 
