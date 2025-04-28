@@ -1,6 +1,6 @@
 ***Disclaimer: Please don't be too critical of my work. This is my first attempt at making Overlays***
 
-***Please note that, in my limited experience, GBA integer scaling is almost impossible to pull off. The GBA's pixels, and how it processed the image to the screen was strange. Just mess around with overlay and video setting and see what setup you like best***
+***Please note that, in my limited experience, GBA integer scaling is almost impossible to pull off. The GBA's pixels, and how it processed the image to the screen was strange. Just mess around with overlay options and video setting and see what setup you like best***
 
 
 ***GBC Overlays***
