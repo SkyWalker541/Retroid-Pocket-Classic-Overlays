@@ -1,5 +1,3 @@
-***Update 5/3/2025 - Added 8:7 and 20:19 aspect grid overlays to Experimental folder.***
-
 ***Update 4/28/2025 - Updated GBA Overlays.***
 
 ***Disclaimer: Please don't be too critical of my work. This is my first attempt at making Overlays***
