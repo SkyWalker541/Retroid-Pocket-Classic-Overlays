@@ -2,7 +2,6 @@
 
 ***NOTE: The photos below have different opacity settings, so keep that in mind. The overlay may look darker or lighter than you would like, but you can change that in the overlay Opacity settings.***
 
-***Disclaimer: Please don't be too critical of my work. This is my first attempt at making Overlays***
 
 
 ***GBC Overlays***
