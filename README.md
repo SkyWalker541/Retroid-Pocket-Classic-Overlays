@@ -1,6 +1,5 @@
 ***Update 5/7/2025 - Added various Bezel Overlay and Beze_Fade Overlay options for GBA and GBC***
 
-***Update 4/28/2025 - Updated GBA Overlays.***
 
 ***Disclaimer: Please don't be too critical of my work. This is my first attempt at making Overlays***
 
