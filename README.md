@@ -27,7 +27,8 @@ Bezel Fades (integer options only):
 Note: Bezel Fade options add a shadow to the edge on the game screen.
 
 
-
+![GBC_1240_Japanese_bezel_fade_grid_integer_1px_black](https://github.com/user-attachments/assets/56dba0a7-f71e-45c4-899c-f6caafd69844)
+Photo: GBC_1240_Japanese_bezel_fade_grid_integer_1px_black
 
 ![Screenshot_20250507-174020](https://github.com/user-attachments/assets/27ed243b-883a-4370-b7c3-e51a1740a69f)
 Photo: GBC_1240_bezel_fade_grid_integer_1px_black
