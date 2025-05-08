@@ -14,11 +14,18 @@ Integer Grid:
 - Black Gridline with 1,2, and 3 pixel width varients.
 - White Gridline with 1,2, and 3 pixel width varients.
 
+![Screenshot_20250507-174020](https://github.com/user-attachments/assets/27ed243b-883a-4370-b7c3-e51a1740a69f)
+Photo: GBC_1240_bezel_fade_grid_integer_1px_black
+
+![Screenshot_20250507-173952](https://github.com/user-attachments/assets/96578127-46eb-4f2b-82a1-bdddb3337925)
+Photo: GBC_1240_bezel_grid_integer_1px_black
+
+
 ![Screenshot_20250428-094034](https://github.com/user-attachments/assets/1f3dbe78-76a0-4595-ab62-e80b01b5f2ab)
 Photo: GBC_1240_grid_integer_1px_white with Opacity set to 0.30
 
 ![Screenshot_20250428-094058](https://github.com/user-attachments/assets/64b9d8fa-b00d-41eb-9aa6-4225819c18a2)
-Photo: GBC_1240_grid_integer_1px with Opacity set to 1.00
+Photo: GBC_1240_grid_integer_1px_black with Opacity set to 1.00
 
 
 
@@ -33,6 +40,12 @@ Fullscreen Grid:
 Integer Grid:
 - Black Gridlines with 1,2, and 3 pixel width varients.
 - White Gridlines with 1,2, and 3 pixel width varients.
+
+![Screenshot_20250507-173640](https://github.com/user-attachments/assets/9d5aa1f4-1b53-4c8c-bdb2-aafc8ea3e680)
+Photo: GBC_1240_bezel_fade_only_integer
+
+![Screenshot_20250507-173607](https://github.com/user-attachments/assets/14991e59-3ff1-4ea4-9c72-5de1cc54d707)
+Photo: GBC_1240_bezel_only_integer
 
 ![Screenshot_20250428-081251](https://github.com/user-attachments/assets/0e7ff54a-f8af-4cf8-8dfe-fdeaef91f767)
 Photo: GBA_1240_grid_integer_1px_white with Opacity set to 0.30
