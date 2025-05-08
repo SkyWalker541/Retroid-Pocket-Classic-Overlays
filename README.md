@@ -71,7 +71,7 @@ Bezel Fades (integer options only):
   - White grid with GBA logo
   - Bezel only, no grid, with GBA logo
 
-
+Note: Bezel Fade options add a shadow to the edge on the game screen.
 
 ![Screenshot_20250507-173640](https://github.com/user-attachments/assets/9d5aa1f4-1b53-4c8c-bdb2-aafc8ea3e680)
 Photo: GBC_1240_bezel_fade_only_integer
