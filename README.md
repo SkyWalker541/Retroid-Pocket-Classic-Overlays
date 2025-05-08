@@ -6,7 +6,7 @@
 
 ***GBC Overlays***
 
-Fullscreen Stretch Grid:
+Fullscreen Grid:
 - Black Gridlines with 1,2, and 3 pixel width varients.
 - White Gridlines with 1,2, and 3 pixel width varients.
 
