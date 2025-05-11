@@ -1,4 +1,4 @@
-***Update 5/11/2025 - Moved 4_3 Overlays out of Experimental. Added scanline and Scanline/RGB Mask Overlays***
+***Update 5/11/2025 - Moved 4_3 Overlays out of Experimental. Added Scanline and Scanline/RGB Mask Overlays***
 
 ***Update 5/7/2025 - Added various Bezel Overlay and Beze_Fade Overlay options for GBA and GBC***
 
