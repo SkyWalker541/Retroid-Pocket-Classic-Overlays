@@ -1,3 +1,11 @@
+***Update: Added two DMG Overlay options*** 
+Below is a screenshot of one of the overlays combined with a shader.
+![Screenshot (May 11, 2025 4_22_32 PM)](https://github.com/user-attachments/assets/e0daaa8d-2f5d-4186-8523-3d47aaa8b12b)
+Overlay: DMG_1240_bezel_grid_integer_1px_black
+Shader: gameboy-pocket.glslp
+
+
+
 ***Update 5/11/2025 - Moved 4_3 Overlays out of Experimental. Added Scanline and Scanline/RGB Mask Overlays***
 
 ***Update 5/7/2025 - Added various Bezel Overlay and Beze_Fade Overlay options for GBA and GBC***
