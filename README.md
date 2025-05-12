@@ -1,6 +1,6 @@
-***If you need help understanding how overlays work, and how to install them, please take a look at Russ from RetroGameCorps guide:
+***If you need help understanding how overlays work, and how to install them, please take a look at Russ from RetroGameCorps guide:***
 
-https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/***
+https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/
 
 
 ***Update: Added two DMG Overlay options*** 
