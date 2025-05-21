@@ -114,5 +114,4 @@ Photo: GBA_1240_grid_integer_1px_black with Opacity set to 1.00
 
 ***Note: These overlays are 100% compatible with the Ayaneo Pocket DMG and the Retroid Pocket Mini V2, as they all use the same screen***
 
-***Note: Added "Experimental" folder containing overlays for 4_3 systems. They are staying in experimental for now...***
 
