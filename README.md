@@ -101,6 +101,8 @@ Photo: GBA_1240_grid_integer_1px_white with Opacity set to 0.30
 ![Screenshot_20250428-081203](https://github.com/user-attachments/assets/60c4203a-d6bb-4035-8ba1-09a1122917ad)
 Photo: GBA_1240_grid_integer_1px_black with Opacity set to 1.00
 
+![GBA_1240_OGbezel_grid_integer_1px_black](https://github.com/user-attachments/assets/173a72e6-567e-4d42-a798-4124b3c21ea9)
+Photo: GBA_1240_OGbezel_grid_integer_1px_black (Located in Requested Overlays)
 
 
 ***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU***
