@@ -38,33 +38,6 @@ Photo: GBC_1240_grid_integer_1px_black with Opacity set to 1.00
 
 
 
-
-
-***GBA Overlays***
-
-Horizontal Stretch Grid:
-- Black Gridlines with 1,2, and 3 pixel width varients.
-- White Gridlines with 1,2, and 3 pixel width varients.
-
-Integer Grid:
-- Black Gridlines with 1,2, and 3 pixel width varients.
-- White Gridlines with 1,2, and 3 pixel width varients.
-
-Bezels:
-- Horizontal Stretch
-  -Black grid with GBA logo
-  -White grid with GBA logo
-  -Bezel only, no grid, with GBA logo
--Integer Bezels
-  -Black grid with GBA logo
-  -White grid with GBA logo
-  -Bezel only, no grid, with GBA logo
-
-Bezel Fades (integer options only):
-  - Black grid with GBA logo
-  - White grid with GBA logo
-  - Bezel only, no grid, with GBA logo
-
 Note: Bezel Fade options add a shadow to the edge on the game screen.
 
 ![Screenshot_20250507-173640](https://github.com/user-attachments/assets/9d5aa1f4-1b53-4c8c-bdb2-aafc8ea3e680)
@@ -80,13 +53,13 @@ Photo: GBA_1240_grid_integer_1px_white with Opacity set to 0.30
 Photo: GBA_1240_grid_integer_1px_black with Opacity set to 1.00
 
 ![GBA_1240_OGbezel_grid_integer_1px_black](https://github.com/user-attachments/assets/173a72e6-567e-4d42-a798-4124b3c21ea9)
-Photo: GBA_1240_OGbezel_grid_integer_1px_black (Located in Requested Overlays)
+Photo: GBA_1240_OGbezel_grid_integer_1px_black (Located in Requested Overlays.)
 
 
-***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU***
+***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU.***
 
-- "Hide Overlay When Controller Is Connected" Set this to OFF
-- "Auto-Scale Overlay" Set this to OFF
+- "Hide Overlay When Controller Is Connected" Set this to OFF.
+- "Auto-Scale Overlay" Set this to OFF.
 - I also recommend messing with the overlay Opacity. See how you like it.
 
 
