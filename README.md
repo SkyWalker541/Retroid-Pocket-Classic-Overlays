@@ -14,27 +14,7 @@ Overlay: DMG_1240_bezel_grid_integer_1px_black with Shader: gameboy-pocket.glslp
 
 
 
-***GBC Overlays***
-
-Fullscreen Grid:
-- Black Gridlines with 1,2, and 3 pixel width varients.
-- White Gridlines with 1,2, and 3 pixel width varients.
-
-Integer Grid:
-- Black Gridline with 1,2, and 3 pixel width varients.
-- White Gridline with 1,2, and 3 pixel width varients.
-
-Bezels (integer options only):
-- Black grid with GBC logo
-- White grid with GBC logo
-- Bezel only, no grid, with GBC logo
-
-Bezel Fades (integer options only):
-- Black grid with GBC logo
-- White grid with GBC logo
-- Bezel only, no grid, with GBC logo
-
-Note: Bezel Fade options add a shadow to the edge on the game screen.
+***Note: Bezel Fade options add a shadow to the edge on the game screen.***
 
 
 ![GBC_1240_Japanese_bezel_fade_grid_integer_1px_black](https://github.com/user-attachments/assets/56dba0a7-f71e-45c4-899c-f6caafd69844)
