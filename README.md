@@ -3,17 +3,12 @@
 https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/
 
 
-***Update: Added two DMG Overlay options*** 
 
 Below is a screenshot of one of the overlays combined with a shader.
 ![Screenshot (May 11, 2025 4_22_32 PM)](https://github.com/user-attachments/assets/e0daaa8d-2f5d-4186-8523-3d47aaa8b12b)
 Overlay: DMG_1240_bezel_grid_integer_1px_black with Shader: gameboy-pocket.glslp
 
 
-
-***Update 5/11/2025 - Moved 4_3 Overlays out of Experimental. Added Scanline and Scanline/RGB Mask Overlays***
-
-***Update 5/7/2025 - Added various Bezel Overlay and Beze_Fade Overlay options for GBA and GBC***
 
 ***NOTE: The photos below have different opacity settings, so keep that in mind. The overlay may look darker or lighter than you would like, but you can change that in the overlay Opacity settings.***
 
