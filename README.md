@@ -1,3 +1,5 @@
+***Overlay requests are not guaranteed to be created. Requests are purely based on my available time, and my interest in creating said request. Remember, this is all free of charge***
+
 ***If you need help understanding how overlays work, and how to install them, please take a look at Russ' (RetroGameCorps) guide:***
 
 https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/
