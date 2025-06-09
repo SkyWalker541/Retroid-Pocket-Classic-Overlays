@@ -63,7 +63,6 @@ Photo: gba_5x_top_aligned_overlay_pokemon (Located in Requested Overlays.)
 
 ***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU.***
 
-- "Hide Overlay When Controller Is Connected" Set this to OFF.
 - "Auto-Scale Overlay" Set this to OFF.
 - I also recommend messing with the overlay Opacity. See how you like it.
 
