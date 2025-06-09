@@ -70,6 +70,9 @@ Photo: gba_5x_top_aligned_overlay_fade_TLOZ (Located in Requested Overlays.)
 ![gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ](https://github.com/user-attachments/assets/7fc5b54d-31a0-4f7e-a0e6-5580e89a216f)
 Photo: gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ (Located in Requested Overlays.)
 
+![gba_5x_top_aligned_overlay_fade_Kirby](https://github.com/user-attachments/assets/1f89d61b-7e6b-43a6-ba81-a2dab7d98c5f)
+Photo: gba_5x_top_aligned_overlay_fade_Kirby (Located in Requested Overlays.)
+
 ***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU.***
 
 - "Auto-Scale Overlay" Set this to OFF.
