@@ -61,6 +61,12 @@ Photo: gba_5x_top_aligned_overlay (Located in Requested Overlays.)
 ![gba_5x_top_aligned_overlay_pokemon](https://github.com/user-attachments/assets/bf38b9a6-7fd5-4e54-82e1-f5285b70e5e3)
 Photo: gba_5x_top_aligned_overlay_pokemon (Located in Requested Overlays.)
 
+![GBA_1240_bezel_only_integer_pikachu](https://github.com/user-attachments/assets/af740fc9-01cb-42ad-afca-2b6ae4e3b92b)
+Photo: GBA_1240_bezel_only_integer_pikachu (Located in Requested Overlays.)
+
+![gba_5x_top_aligned_overlay_fade_TLOZ](https://github.com/user-attachments/assets/2de6124d-152d-492d-86b4-b70693479f07)
+Photo: gba_5x_top_aligned_overlay_fade_TLOZ (Located in Requested Overlays.)
+
 ***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU.***
 
 - "Auto-Scale Overlay" Set this to OFF.
