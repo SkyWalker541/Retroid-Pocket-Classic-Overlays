@@ -67,6 +67,9 @@ Photo: GBA_1240_bezel_only_integer_pikachu (Located in Requested Overlays.)
 ![gba_5x_top_aligned_overlay_fade_TLOZ](https://github.com/user-attachments/assets/2de6124d-152d-492d-86b4-b70693479f07)
 Photo: gba_5x_top_aligned_overlay_fade_TLOZ (Located in Requested Overlays.)
 
+![gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ](https://github.com/user-attachments/assets/7fc5b54d-31a0-4f7e-a0e6-5580e89a216f)
+Photo: gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ (Located in Requested Overlays.)
+
 ***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU.***
 
 - "Auto-Scale Overlay" Set this to OFF.
