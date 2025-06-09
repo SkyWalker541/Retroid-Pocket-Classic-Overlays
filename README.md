@@ -55,6 +55,11 @@ Photo: GBA_1240_grid_integer_1px_black with Opacity set to 1.00
 ![GBA_1240_OGbezel_grid_integer_1px_black](https://github.com/user-attachments/assets/173a72e6-567e-4d42-a798-4124b3c21ea9)
 Photo: GBA_1240_OGbezel_grid_integer_1px_black (Located in Requested Overlays.)
 
+![gba_5x_top_aligned_overlay](https://github.com/user-attachments/assets/c9d6bc5f-96a3-46eb-8a34-3064963b6a5a)
+Photo: gba_5x_top_aligned_overlay (Located in Requested Overlays.)
+
+![gba_5x_top_aligned_overlay_pokemon](https://github.com/user-attachments/assets/bf38b9a6-7fd5-4e54-82e1-f5285b70e5e3)
+Photo: gba_5x_top_aligned_overlay_pokemon (Located in Requested Overlays.)
 
 ***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU.***
 
