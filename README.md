@@ -73,6 +73,9 @@ Photo: gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ (Located in Request
 ![gba_5x_top_aligned_overlay_fade_Kirby](https://github.com/user-attachments/assets/1f89d61b-7e6b-43a6-ba81-a2dab7d98c5f)
 Photo: gba_5x_top_aligned_overlay_fade_Kirby (Located in Requested Overlays.)
 
+![PSX](https://github.com/user-attachments/assets/39d54914-9d79-423a-b3a1-2d51dd881a5f)
+Photo: PSX
+
 ***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU.***
 
 - "Auto-Scale Overlay" Set this to OFF.
