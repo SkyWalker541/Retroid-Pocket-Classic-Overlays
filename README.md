@@ -76,6 +76,12 @@ Photo: gba_5x_top_aligned_overlay_fade_Kirby (Located in Requested Overlays.)
 ![PSX](https://github.com/user-attachments/assets/39d54914-9d79-423a-b3a1-2d51dd881a5f)
 Photo: PSX
 
+![GBA_Metroid_1](https://github.com/user-attachments/assets/996a8191-b5fb-42bd-8829-c0a414ff526e)
+Photo: GBA_Metroid_1
+
+![GBA_Metroid_2](https://github.com/user-attachments/assets/32762491-4a7b-4195-8f2e-519085e45c4d)
+Photo: GBA_Metroid_2
+
 ***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU.***
 
 - "Auto-Scale Overlay" Set this to OFF.
