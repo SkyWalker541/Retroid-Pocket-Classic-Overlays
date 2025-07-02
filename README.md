@@ -83,6 +83,9 @@ Photo: GBA_Metroid_1
 ![GBA_Metroid_2](https://github.com/user-attachments/assets/32762491-4a7b-4195-8f2e-519085e45c4d)
 Photo: GBA_Metroid_2
 
+![GBA_Castlevania_Bezel](https://github.com/user-attachments/assets/e22b1208-938e-408b-a1a1-c0582f3bd61c)
+Photo: GBA_Castlevania_Bezel
+
 ***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU.***
 
 - "Auto-Scale Overlay" Set this to OFF.
