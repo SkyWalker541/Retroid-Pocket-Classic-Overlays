@@ -60,31 +60,31 @@ Photo: GBA_1240_OGbezel_grid_integer_1px_black (Located in Requested Overlays.)
 Photo: gba_5x_top_aligned_overlay (Located in Requested Overlays.)
 
 ![gba_5x_top_aligned_overlay_pokemon](https://github.com/user-attachments/assets/bf38b9a6-7fd5-4e54-82e1-f5285b70e5e3)
-Photo: gba_5x_top_aligned_overlay_pokemon (Located in Requested Overlays.)
+Photo: gba_5x_top_aligned_overlay_pokemon (Located in Requested Overlays/GBA OG Bezels.)
 
 ![GBA_1240_bezel_only_integer_pikachu](https://github.com/user-attachments/assets/af740fc9-01cb-42ad-afca-2b6ae4e3b92b)
-Photo: GBA_1240_bezel_only_integer_pikachu (Located in Requested Overlays.)
+Photo: GBA_1240_bezel_only_integer_pikachu (Located in Requested Overlays/GBA OG Bezels.)
 
 ![gba_5x_top_aligned_overlay_fade_TLOZ](https://github.com/user-attachments/assets/2de6124d-152d-492d-86b4-b70693479f07)
-Photo: gba_5x_top_aligned_overlay_fade_TLOZ (Located in Requested Overlays.)
+Photo: gba_5x_top_aligned_overlay_fade_TLOZ (Located in Requested Overlays/GBA OG Bezels.)
 
 ![gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ](https://github.com/user-attachments/assets/7fc5b54d-31a0-4f7e-a0e6-5580e89a216f)
-Photo: gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ (Located in Requested Overlays.)
+Photo: gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ (Located in Requested Overlays/GBA OG Bezels.)
 
 ![gba_5x_top_aligned_overlay_fade_Kirby](https://github.com/user-attachments/assets/1f89d61b-7e6b-43a6-ba81-a2dab7d98c5f)
-Photo: gba_5x_top_aligned_overlay_fade_Kirby (Located in Requested Overlays.)
+Photo: gba_5x_top_aligned_overlay_fade_Kirby (Located in Requested Overlays/GBA OG Bezels.)
 
 ![PSX](https://github.com/user-attachments/assets/39d54914-9d79-423a-b3a1-2d51dd881a5f)
 Photo: PSX
 
 ![GBA_Metroid_1](https://github.com/user-attachments/assets/996a8191-b5fb-42bd-8829-c0a414ff526e)
-Photo: GBA_Metroid_1 (Located in Requested Overlays.)
+Photo: GBA_Metroid_1 (Located in Requested Overlays/GBA OG Bezels.)
 
 ![GBA_Metroid_2](https://github.com/user-attachments/assets/32762491-4a7b-4195-8f2e-519085e45c4d)
-Photo: GBA_Metroid_2 (Located in Requested Overlays.)
+Photo: GBA_Metroid_2 (Located in Requested Overlays/GBA OG Bezels.)
 
 ![GBA_Castlevania_Bezel](https://github.com/user-attachments/assets/e22b1208-938e-408b-a1a1-c0582f3bd61c)
-Photo: GBA_Castlevania_Bezel (Located in Requested Overlays.)
+Photo: GBA_Castlevania_Bezel (Located in Requested Overlays/GBA OG Bezels.)
 
 ***MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU.***
 
