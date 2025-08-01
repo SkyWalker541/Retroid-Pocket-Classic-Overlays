@@ -47,6 +47,9 @@ Photo: GBC_1240_bezel_fade_only_integer
 ![Screenshot_20250507-173607](https://github.com/user-attachments/assets/14991e59-3ff1-4ea4-9c72-5de1cc54d707)
 Photo: GBC_1240_bezel_only_integer
 
+<img width="1240" height="1080" alt="GBC_1240_bezel_only_integer_pokemon" src="https://github.com/user-attachments/assets/72f0c19b-ad4f-44dc-ad7f-d421c02117a2" />
+Photo: GBC_1240_bezel_only_integer_pokemon (Located in Requested Overlays)
+
 ![Screenshot_20250428-081251](https://github.com/user-attachments/assets/0e7ff54a-f8af-4cf8-8dfe-fdeaef91f767)
 Photo: GBA_1240_grid_integer_1px_white with Opacity set to 0.30
 
