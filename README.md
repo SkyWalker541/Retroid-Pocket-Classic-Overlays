@@ -1,4 +1,4 @@
-***Update 8/2/2025: I have reuploaded DMG, GBC, and GBA Bezels. Sorry it has taken me so long, but I finally got the bezels to be true black for the OLED screens. I have also placed what was previously called "requested Overlays", as "Custom Overlays" now within each stystems main folder. I am currently in the process of rewriting the readme here. Stay tuned...***
+***Update 8/2/2025: I have reuploaded DMG, GBC, and GBA Bezels. Sorry it has taken me so long, but I finally got the bezels to be true black for the OLED screens. I have also placed what was previously called "requested Overlays", as "Custom Bezels" now within each stystems main folder. I am currently in the process of rewriting the readme here. Stay tuned...***
 
 ***If you are new to GitHub, and are trying to download my content: Click the green, "Code" button, and select "Download ZIP"***
 
@@ -57,7 +57,7 @@ Photo: GBA_1240_grid_integer_1px_white with Opacity set to 0.30
 Photo: GBA_1240_grid_integer_1px_black with Opacity set to 1.00
 
 ![GBA_1240_OGbezel_grid_integer_1px_black](https://github.com/user-attachments/assets/173a72e6-567e-4d42-a798-4124b3c21ea9)
-Photo: GBA_1240_OGbezel_grid_integer_1px_black (Located in Requested Overlays.)
+Photo: GBA_1240_OGbezel_grid_integer_1px_black (Located in GBA/Cus.)
 
 ![gba_5x_top_aligned_overlay](https://github.com/user-attachments/assets/c9d6bc5f-96a3-46eb-8a34-3064963b6a5a)
 Photo: gba_5x_top_aligned_overlay (Located in Requested Overlays.)
