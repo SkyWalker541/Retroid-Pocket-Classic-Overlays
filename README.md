@@ -1,4 +1,4 @@
-***Update 8/2/2025: I have reuploaded DMG, GBC, and GBA Bezels. Sorry it has taken me so long, but I finally got the bezels to be true black for the OLED screens. I have also placed what was previously called "Requested Overlays", as "Custom Bezels" now within each stystems main folder.***
+***Update 8/2/2025: I have reuploaded DMG, GBC, and GBA Bezels. Sorry it has taken me so long, but I finally got the bezels to be true black for the OLED screens. I have also placed what was previously called "Requested Overlays", as "Custom Bezels" now within each systems main folder.***
 
 
 ***If you are new to GitHub, and are trying to download my content: Click the green, "Code" button, and select "Download ZIP"***
