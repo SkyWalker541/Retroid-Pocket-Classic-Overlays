@@ -1,4 +1,4 @@
-[SkyWalker541_Universal_Grid_Shader_User_Guide.txt](https://github.com/user-attachments/files/21707597/SkyWalker541_Universal_Grid_Shader_User_Guide.txt)***Update 8/10/2025: I am trying my hand at shaders now. I have uploaded two options. Universal Pixel Grid & Universal Pixel Grid PRO. There are lots of setting for these shaders. Be sure to check them out.***
+[SkyWalker541_Universal_Grid_Shader_User_Guide.txt](https://github.com/user-attachments/files/21707597/SkyWalker541_Universal_Grid_Shader_User_Guide.txt)***Update 8/10/2025: I am trying my hand at shaders now. I have uploaded two options. Universal Pixel Grid & Universal Pixel Grid PRO. There are lots of setting for these shaders. Be sure to check them out. Please note, that these shaders are specific to the Retroid Pocket Classic, Ayaneo Pocket DMG, and Retroid Pocket Mini V2***
 
 ***Below I have inserted the .txt file contents, with instructions and some of the features:***
 
