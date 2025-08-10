@@ -1,6 +1,6 @@
 [SkyWalker541_Universal_Grid_Shader_User_Guide.txt](https://github.com/user-attachments/files/21707597/SkyWalker541_Universal_Grid_Shader_User_Guide.txt)***Update 8/10/2025: I am trying my hand at shaders now. I have uploaded two options. Universal Pixel Grid & Universal Pixel Grid PRO. There are lots of setting for these shaders. Be sure to check them out.***
 
-***Below I have inserted the .txt file with instructions and some of the features:***
+***Below I have inserted the .txt file contents, with instructions and some of the features:***
 
 SkyWalker541 Universal Grid Shader - User Guide
 ================================================
