@@ -2,7 +2,7 @@
 
 ***Below I have inserted the .txt file with instructions and some of the features:***
 
-[Uploading SkyWalker541_SkyWalker541 Universal Grid Shader - User Guide
+SkyWalker541 Universal Grid Shader - User Guide
 ================================================
 
 Creator: SkyWalker541
