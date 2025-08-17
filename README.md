@@ -160,9 +160,3 @@
 | PSX |
 |----|
 | ![PSX](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/PSX/PSX.png?raw=true)
-
-## **GBC - Custom Bezels**
-
-|  |  |  |  |
-|----|----|----|----|
-| ![]() | ![]() | ![]() | ![]()
