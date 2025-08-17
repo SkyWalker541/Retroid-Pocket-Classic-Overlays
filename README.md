@@ -4,12 +4,12 @@
 
 ## Updated 8/2/2025:
 
-- ### I have re-uploaded DMG, GBC, and GBA Bezels. Sorry it has taken me so long, but I finally got the bezels to be true black for the OLED screens. I have also placed what was previously called "Requested Overlays", as "Custom Bezels" within each systems main folder.
-- ### If you are new to GitHub, and are trying to download my content: Click the green, "Code" button, and select "Download ZIP"
+### I have re-uploaded DMG, GBC, and GBA Bezels. Sorry it has taken me so long, but I finally got the bezels to be true black for the OLED screens. I have also placed what was previously called "Requested Overlays", as "Custom Bezels" within each systems main folder.
+### If you are new to GitHub, and are trying to download my content: Click the green, "Code" button, and select "Download ZIP"
 
-- ### If you need help understanding how overlays work, and how to install them, please take a look at Russ' (RetroGameCorps) guide: https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/
+### If you need help understanding how overlays work, and how to install them, please take a look at Russ' (RetroGameCorps) guide: https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/
 
-- ### Bezel Fade options add a shadow to the edge on the game screen (This helps re-create the look of an inset screen on older handheld consoles).
+### Bezel Fade options add a shadow to the edge on the game screen (This helps re-create the look of an inset screen on older handheld consoles).
 
 ## Make sure to turn off the following in the "On-Screen Overlay" menu.
 
