@@ -11,7 +11,7 @@
 
 - ### Bezel Fade options add a shadow to the edge on the game screen (This helps re-create the look of an inset screen on older handheld consoles).
 
-## MAKE SURE TO TURN OFF THE FOLLOWING IN THE "On-Screen Overlay" MENU.
+## Make sure to turn off the following in the "On-Screen Overlay" menu.
 
 - ### "Auto-Scale Overlay" Set this to OFF. ###
 - ### I also recommend messing with the overlay Opacity. See how you like it. ###
