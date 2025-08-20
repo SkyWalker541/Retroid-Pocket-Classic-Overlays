@@ -9,7 +9,7 @@
 
 ### If you need help understanding how overlays work, and how to install them, please take a look at Russ' (RetroGameCorps) guide: https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/
 
-### Bezel Fade options add a shadow to the edge on the game screen (This helps re-create the look of an inset screen on older handheld consoles).
+### Bezel Fade options add a shadow to the edge on the game screen (This helps re-create the look of an inset screen on older handhelds).
 
 ## Make sure to turn off the following in the "On-Screen Overlay" menu.
 
