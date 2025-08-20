@@ -19,9 +19,9 @@
 
 ## **DMG**
 
-| DMG_1240_bezel_grid_integer_1px_black | DMG_1240_bezel_only_integer |
-|----|----|
-| ![DMG_1240_bezel_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/DMG_1240_bezel_grid_integer_1px_black.png) | ![DMG_1240_bezel_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/DMG_1240_bezel_only_integer.png) 
+| DMG_1240_bezel_grid_integer_1px_black | DMG_1240_bezel_only_integer | DMG_grid_fullscreen_1px |
+|----|----|----|
+| ![DMG_1240_bezel_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/DMG_1240_bezel_grid_integer_1px_black.png) | ![DMG_1240_bezel_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/DMG_1240_bezel_only_integer.png) | ![DMG_grid_fullscreen_1px](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/DMG_grid_fullscreen_1px.png) |
 
 ## **GBC/Bezel Fades**
 
