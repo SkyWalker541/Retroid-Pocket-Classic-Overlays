@@ -159,7 +159,7 @@
 
 | PSX |
 |----|
-| ![PSX](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/PSX/PSX.png)
+| ![PSX](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DS/DS_Fullscreen_Logo.png)
 
 ## **DS**
 
