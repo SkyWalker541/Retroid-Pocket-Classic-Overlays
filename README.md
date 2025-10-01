@@ -22,6 +22,12 @@
 |----|----|----|
 | ![DMG_1240_bezel_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/DMG_1240_bezel_grid_integer_1px_black.png) | ![DMG_1240_bezel_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/DMG_1240_bezel_only_integer.png) | ![DMG_grid_fullscreen_1px](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/DMG_grid_fullscreen_1px.png) |
 
+## **DMG/Custom Bezels**
+
+| DMG_1240_bezel_fade_only_integer_no_LED | 
+|----|
+| ![DMG_1240_bezel_fade_only_integer_no_LED](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/Custom%20Bezels/DMG_1240_bezel_fade_only_integer_no_LED.png) |
+
 ## **GBC/Bezel Fades**
 
 | GBC_1240_Japanese_bezel_fade_grid_integer_1px_black | GBC_1240_bezel_fade_grid_integer_1px_black | GBC_1240_bezel_fade_grid_integer_1px_white | GBC_1240_bezel_fade_only_integer |
@@ -36,9 +42,9 @@
 
 ## **GBC/Custom Bezels**
 
-| GBC_1240_bezel_only_integer_pokemon |
-|----|
-| ![GBC_1240_bezel_only_integer_pokemon](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Custom%20Bezels/GBC_1240_bezel_only_integer_pokemon.png)
+| GBC_1240_bezel_only_integer_pokemon | GBC_1240_bezel_fade_only_integer_no_LED |
+|----|----|
+| ![GBC_1240_bezel_only_integer_pokemon](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Custom%20Bezels/GBC_1240_bezel_only_integer_pokemon.png) | ![GBC_1240_bezel_fade_only_integer_no_LED](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Custom%20Bezels/GBC_1240_bezel_fade_only_integer_no_LED.png)
 
 ## **GBC/Fullscreen Grid/Black**
 
