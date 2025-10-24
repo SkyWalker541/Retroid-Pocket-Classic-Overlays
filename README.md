@@ -24,9 +24,9 @@
 
 ## **DMG/Custom Bezels**
 
-| DMG_1240_bezel_fade_only_integer_no_LED | 
-|----|
-| ![DMG_1240_bezel_fade_only_integer_no_LED](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/Custom%20Bezels/DMG_1240_bezel_fade_only_integer_no_LED.png) |
+| DMG_1240_bezel_fade_only_integer_no_LED | DMG_1240_bezel_fade_only_integer | DMG_1240_bezel_fade_grid_integer_1px_black |
+|----|----|----|
+| ![DMG_1240_bezel_fade_only_integer_no_LED](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/Custom%20Bezels/DMG_1240_bezel_fade_only_integer_no_LED.png) | ![DMG_1240_bezel_fade_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/Custom%20Bezels/DMG_1240_bezel_fade_only_integer.png) | ![DMG_1240_bezel_fade_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/Custom%20Bezels/DMG_1240_bezel_fade_grid_integer_1px_black.png) |
 
 ## **GBC/Bezel Fades**
 
