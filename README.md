@@ -2,7 +2,7 @@
 # **SkyWalker541 Overlays**
 ## **A working collection of overlays and bezels for the Retroid Pocket Classic, Ayaneo Pocket DMG, and Retroid Pocket Mini V2** #
 
-## Updated 11/3/2025:
+## Updated 01/28/2026
 
 ### I have re-uploaded DMG, GBC, and GBA Bezels. Sorry it has taken me so long, but I finally got the bezels to be true black for the OLED screens. I have also placed what was previously called "Requested Overlays", as "Custom Bezels" within each systems main folder.
 
