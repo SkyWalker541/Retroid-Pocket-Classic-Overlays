@@ -4,7 +4,7 @@
 
 ## Updated 02/06/2026
 
-## Added STN and Pixel Pop Overlays for GBC
+## Coming Soon: STN and Pixel Pop Overlays for GBC
 
 ## STN Overlays
 
