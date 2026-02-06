@@ -2,7 +2,19 @@
 # **SkyWalker541 Overlays**
 ## **A working collection of overlays and bezels for the Retroid Pocket Classic, Ayaneo Pocket DMG, and Retroid Pocket Mini V2** #
 
-## Updated 01/28/2026
+## Updated 02/06/2026
+
+## Added STN and Pixel Pop Overlays for GBC
+
+## STN Overlays
+
+The STN overlays atempt to reacreate the GBC screen as best as I can without using a shader.
+
+"The GBC (Game Boy Color) STN display is a Super-Twisted Nematic Liquid Crystal Display. It is a type of passive-matrix LCD technology that was commonly used in the late 1980s and 1990s for portable devices, including Nintendo handhelds, because it was affordable and energy-efficient." -WIKIPEDIA
+
+## Pixel Pop Overlays
+
+The Pixel Pop overlays utilize the same appearance as the STN overlays, but with some modifications to really make the pixels pop.
 
 ### If you need help understanding how overlays work, and how to install them, please take a look at Russ' (RetroGameCorps) guide: https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/
 
