@@ -12,9 +12,22 @@ The STN overlays atempt to reacreate the GBC screen as best as I can without usi
 
 "The GBC (Game Boy Color) STN display is a Super-Twisted Nematic Liquid Crystal Display. It is a type of passive-matrix LCD technology that was commonly used in the late 1980s and 1990s for portable devices, including Nintendo handhelds, because it was affordable and energy-efficient." -WIKIPEDIA
 
+GBC_1240_COOL_STN
+<img width="1240" height="1080" alt="GBC_1240_COOL_STN" src="https://github.com/user-attachments/assets/5e0cf9e2-69b5-4100-8e29-014ed128c37a" />
+GBC_1240_WARM_STN
+<img width="1240" height="1080" alt="GBC_1240_WARM_STN" src="https://github.com/user-attachments/assets/48d926f5-1ce5-4014-9291-24f502335e63" />
+
+
 ## Pixel Pop Overlays
 
 The Pixel Pop overlays utilize the same appearance as the STN overlays, but with some modifications to really make the pixels pop.
+
+GBC_1240_COOL_PIXELPOP
+<img width="1240" height="1080" alt="GBC_1240_COOL_PIXELPOP" src="https://github.com/user-attachments/assets/c33dfb93-b370-4918-a5c5-514b6244a57d" />
+
+GBC_1240_WARM_PIXELPOP
+<img width="1240" height="1080" alt="GBC_1240_WARM_PIXELPOP" src="https://github.com/user-attachments/assets/bb2ce077-9601-44cb-ae9d-99b3add907f5" />
+
 
 ### If you need help understanding how overlays work, and how to install them, please take a look at Russ' (RetroGameCorps) guide: https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/
 
