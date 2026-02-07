@@ -4,7 +4,7 @@
 
 ## Updated 02/06/2026
 
-## Coming Soon: STN and Pixel Pop Overlays for GBC
+## Coming Soon: STN and Pixel Pop Overlays for GBC (These overlays are integer scale only)
 
 ## STN Overlays
 
