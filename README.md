@@ -4,7 +4,7 @@
 
 ## Updated 02/06/2026
 
-## Added STN and Pixel Pop Overlays for GBC (These overlays are integer scale only) ***I highly recommend turning colorization off in retroarch settings for all of the STN and Pixel Pop overlays, for the most accurate representation of original hardware.***
+## Added STN and Pixel Pop Overlays for GBC (These overlays are integer scale only) ***I highly recommend turning colorization OFF in retroarch settings for all of the STN and Pixel Pop overlays, for the most accurate representation of original hardware.***
 
 ## STN Overlays
 
