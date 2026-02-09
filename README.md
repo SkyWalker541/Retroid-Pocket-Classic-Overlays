@@ -2,8 +2,12 @@
 # **SkyWalker541 Overlays**
 ## **A working collection of overlays and bezels for the Retroid Pocket Classic, Ayaneo Pocket DMG, and Retroid Pocket Mini V2** #
 
-## Updated 02/06/2026
+## Updated 02/09/2026
+## Added STN Overlay for DMG (This Overlay is integer scale only)
 
+***As with my GBC STN and Pixel Pop Overlays, I highly recommend turning colorization OFF in retroarch settings for the most accurate representation of original hardware.***
+
+## Updated 02/06/2026
 ## Added STN and Pixel Pop Overlays for GBC (These overlays are integer scale only) 
 
 ***I highly recommend turning colorization OFF in retroarch settings for all of the STN and Pixel Pop overlays, for the most accurate representation of original hardware.***
