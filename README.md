@@ -1,204 +1,220 @@
+# SkyWalker541 Overlays
+**Overlays and bezels for the Retroid Pocket Classic, Ayaneo Pocket DMG, and Retroid Pocket Mini V2**
 
-# **SkyWalker541 Overlays**
-## **A working collection of overlays and bezels for the Retroid Pocket Classic, Ayaneo Pocket DMG, and Retroid Pocket Mini V2** #
+---
 
-## Updated 02/09/2026
-## Added STN Overlay for DMG (This overlay is integer scale only)
+## Changelog
 
-***As with my GBC STN and Pixel Pop Overlays, I highly recommend turning colorization OFF in retroarch settings for the most accurate representation of original hardware.***
+| Date | Update |
+|------|--------|
+| Feb 9, 2026 | Added STN overlay for DMG — integer scale only |
+| Feb 6, 2026 | Added STN and Pixel Pop overlays for GBC — integer scale only |
 
-## Updated 02/06/2026
-## Added STN and Pixel Pop Overlays for GBC (These overlays are integer scale only) 
+---
 
-***I highly recommend turning colorization OFF in retroarch settings for all of the STN and Pixel Pop overlays, for the most accurate representation of original hardware.***
+## Setup
 
-## STN Overlays
+> **Tip:** For STN and Pixel Pop overlays, turn colorization **OFF** in RetroArch settings for the most accurate representation of original hardware.
 
-The STN overlays atempt to reacreate the GBC screen as best as I can without using a shader.
+- In the **On-Screen Overlay** menu, set **Auto-Scale Overlay** to **OFF**
+- Adjust overlay **Opacity** to your preference
+- All overlays are fully compatible with the Ayaneo Pocket DMG and Retroid Pocket Mini V2 (same screen)
+- New to overlays? See [Russ' (RetroGameCorps) installation guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/)
 
-"The GBC (Game Boy Color) STN display is a Super-Twisted Nematic Liquid Crystal Display. It is a type of passive-matrix LCD technology that was commonly used in the late 1980s and 1990s for portable devices, including Nintendo handhelds, because it was affordable and energy-efficient." -WIKIPEDIA
+> **Note:** Bezel Fade options add a shadow to the edge of the game screen, helping recreate the look of an inset screen on older handhelds.
 
-GBC_1240_COOL_STN
-<img width="1240" height="1080" alt="GBC_1240_COOL_STN" src="https://github.com/user-attachments/assets/5e0cf9e2-69b5-4100-8e29-014ed128c37a" />
-GBC_1240_WARM_STN
-<img width="1240" height="1080" alt="GBC_1240_WARM_STN" src="https://github.com/user-attachments/assets/48d926f5-1ce5-4014-9291-24f502335e63" />
+---
 
+## DMG
 
-## Pixel Pop Overlays
+### DMG/STN Overlay *(integer scale only)*
 
-The Pixel Pop overlays utilize the same appearance as the STN overlays, but with some modifications to really make the pixels pop.
+> Turn colorization **OFF** in RetroArch for the most accurate representation of original hardware.
+>
+> The STN overlay recreates the GBC's Super-Twisted Nematic passive-matrix LCD look — the affordable, energy-efficient display technology common in 1980s–90s portable devices including Nintendo handhelds.
 
-GBC_1240_COOL_PIXELPOP
-<img width="1240" height="1080" alt="GBC_1240_COOL_PIXELPOP" src="https://github.com/user-attachments/assets/c33dfb93-b370-4918-a5c5-514b6244a57d" />
-
-GBC_1240_WARM_PIXELPOP
-<img width="1240" height="1080" alt="GBC_1240_WARM_PIXELPOP" src="https://github.com/user-attachments/assets/bb2ce077-9601-44cb-ae9d-99b3add907f5" />
-
-
-### If you need help understanding how overlays work, and how to install them, please take a look at Russ' (RetroGameCorps) guide: https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/
-
-### Bezel Fade options add a shadow to the edge on the game screen (This helps re-create the look of an inset screen on older handhelds).
-
-## Make sure to turn off the following in the "On-Screen Overlay" menu.
-
-- ### "Auto-Scale Overlay" Set this to OFF. ###
-- ### I also recommend messing with the overlay Opacity. See how you like it. ###
-## These overlays are 100% compatible with the Ayaneo Pocket DMG and the Retroid Pocket Mini V2, as they all use the same screen.
-
-## **DMG**
+### DMG/Bezels
 
 | DMG_1240_bezel_grid_integer_1px_black | DMG_1240_bezel_only_integer | DMG_grid_fullscreen_1px |
 |----|----|----|
 | ![DMG_1240_bezel_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/DMG_1240_bezel_grid_integer_1px_black.png) | ![DMG_1240_bezel_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/DMG_1240_bezel_only_integer.png) | ![DMG_grid_fullscreen_1px](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/DMG_grid_fullscreen_1px.png) |
 
-## **DMG/Custom Bezels**
+### DMG/Custom Bezels
 
 | DMG_1240_bezel_fade_only_integer_no_LED | DMG_1240_bezel_fade_only_integer | DMG_1240_bezel_fade_grid_integer_1px_black |
 |----|----|----|
 | ![DMG_1240_bezel_fade_only_integer_no_LED](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/Custom%20Bezels/DMG_1240_bezel_fade_only_integer_no_LED.png) | ![DMG_1240_bezel_fade_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/Custom%20Bezels/DMG_1240_bezel_fade_only_integer.png) | ![DMG_1240_bezel_fade_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DMG/Custom%20Bezels/DMG_1240_bezel_fade_grid_integer_1px_black.png) |
 
-## **GBC/Bezel Fades**
+---
+
+## GBC
+
+### GBC/STN Overlays *(integer scale only)*
+
+> Turn colorization **OFF** in RetroArch for the most accurate representation of original hardware.
+>
+> The STN overlay recreates the GBC's Super-Twisted Nematic passive-matrix LCD look — the affordable, energy-efficient display technology common in 1980s–90s portable devices including Nintendo handhelds.
+
+| GBC_1240_COOL_STN | GBC_1240_WARM_STN |
+|----|----|
+| ![GBC_1240_COOL_STN](https://github.com/user-attachments/assets/5e0cf9e2-69b5-4100-8e29-014ed128c37a) | ![GBC_1240_WARM_STN](https://github.com/user-attachments/assets/48d926f5-1ce5-4014-9291-24f502335e63) |
+
+### GBC/Pixel Pop Overlays *(integer scale only)*
+
+> Same appearance as STN but with modified pixel rendering to make the pixels pop. Turn colorization **OFF** in RetroArch.
+
+| GBC_1240_COOL_PIXELPOP | GBC_1240_WARM_PIXELPOP |
+|----|----|
+| ![GBC_1240_COOL_PIXELPOP](https://github.com/user-attachments/assets/c33dfb93-b370-4918-a5c5-514b6244a57d) | ![GBC_1240_WARM_PIXELPOP](https://github.com/user-attachments/assets/bb2ce077-9601-44cb-ae9d-99b3add907f5) |
+
+### GBC/Bezel Fades
 
 | GBC_1240_Japanese_bezel_fade_grid_integer_1px_black | GBC_1240_bezel_fade_grid_integer_1px_black | GBC_1240_bezel_fade_grid_integer_1px_white | GBC_1240_bezel_fade_only_integer |
 |----|----|----|----|
-| ![GBC_1240_Japanese_bezel_fade_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezel%20Fades/GBC_1240_Japanese_bezel_fade_grid_integer_1px_black.png) | ![GBC_1240_bezel_fade_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezel%20Fades/GBC_1240_bezel_fade_grid_integer_1px_black.png) | ![GBC_1240_bezel_fade_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezel%20Fades/GBC_1240_bezel_fade_grid_integer_1px_white.png) | ![GBC_1240_bezel_fade_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezel%20Fades/GBC_1240_bezel_fade_only_integer.png)
+| ![GBC_1240_Japanese_bezel_fade_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezel%20Fades/GBC_1240_Japanese_bezel_fade_grid_integer_1px_black.png) | ![GBC_1240_bezel_fade_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezel%20Fades/GBC_1240_bezel_fade_grid_integer_1px_black.png) | ![GBC_1240_bezel_fade_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezel%20Fades/GBC_1240_bezel_fade_grid_integer_1px_white.png) | ![GBC_1240_bezel_fade_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezel%20Fades/GBC_1240_bezel_fade_only_integer.png) |
 
-## **GBC/Bezels**
+### GBC/Bezels
 
 | GBC_1240_bezel_grid_integer_1px_black | GBC_1240_bezel_grid_integer_1px_white | GBC_1240_bezel_only_integer |
 |----|----|----|
-| ![GBC_1240_bezel_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezels/GBC_1240_bezel_grid_integer_1px_black.png) | ![GBC_1240_bezel_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezels/GBC_1240_bezel_grid_integer_1px_white.png) | ![GBC_1240_bezel_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezels/GBC_1240_bezel_only_integer.png)
+| ![GBC_1240_bezel_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezels/GBC_1240_bezel_grid_integer_1px_black.png) | ![GBC_1240_bezel_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezels/GBC_1240_bezel_grid_integer_1px_white.png) | ![GBC_1240_bezel_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Bezels/GBC_1240_bezel_only_integer.png) |
 
-## **GBC/Custom Bezels**
+### GBC/Custom Bezels
 
-| GBC_1240_bezel_only_integer_pokemon | GBC_1240_bezel_fade_only_integer_no_LED | GBC_1240_bezel_fade_only_integer_pokemon.png |
+| GBC_1240_bezel_only_integer_pokemon | GBC_1240_bezel_fade_only_integer_no_LED | GBC_1240_bezel_fade_only_integer_pokemon |
 |----|----|----|
-| ![GBC_1240_bezel_only_integer_pokemon](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Custom%20Bezels/GBC_1240_bezel_only_integer_pokemon.png) | ![GBC_1240_bezel_fade_only_integer_no_LED](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Custom%20Bezels/GBC_1240_bezel_fade_only_integer_no_LED.png) | ![GBC_1240_bezel_fade_only_integer_pokemon.png](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Custom%20Bezels/GBC_1240_bezel_fade_only_integer_pokemon.png)
+| ![GBC_1240_bezel_only_integer_pokemon](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Custom%20Bezels/GBC_1240_bezel_only_integer_pokemon.png) | ![GBC_1240_bezel_fade_only_integer_no_LED](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Custom%20Bezels/GBC_1240_bezel_fade_only_integer_no_LED.png) | ![GBC_1240_bezel_fade_only_integer_pokemon](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Custom%20Bezels/GBC_1240_bezel_fade_only_integer_pokemon.png) |
 
-
-## **GBC/Fullscreen Grid/Black**
+### GBC/Fullscreen Grid/Black
 
 | GBC_1240_grid_fullscreen_1px_black | GBC_1240_grid_fullscreen_2px_black | GBC_1240_grid_fullscreen_3px_black |
 |----|----|----|
-| ![GBC_1240_grid_fullscreen_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Fullscreen%20Grid/Black/GBC_1240_grid_fullscreen_1px_black.png) | ![GBC_1240_grid_fullscreen_2px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Fullscreen%20Grid/Black/GBC_1240_grid_fullscreen_2px_black.png) | ![GBC_1240_grid_fullscreen_3px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Fullscreen%20Grid/Black/GBC_1240_grid_fullscreen_3px_black.png)
+| ![GBC_1240_grid_fullscreen_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Fullscreen%20Grid/Black/GBC_1240_grid_fullscreen_1px_black.png) | ![GBC_1240_grid_fullscreen_2px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Fullscreen%20Grid/Black/GBC_1240_grid_fullscreen_2px_black.png) | ![GBC_1240_grid_fullscreen_3px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Fullscreen%20Grid/Black/GBC_1240_grid_fullscreen_3px_black.png) |
 
-## **GBC/Fullscreen Grid/White**
+### GBC/Fullscreen Grid/White
 
 | GBC_1240_grid_horizontal_stretch_1px_white | GBC_1240_grid_horizontal_stretch_2px_white | GBC_1240_grid_horizontal_stretch_3px_white |
 |----|----|----|
-| ![GBC_1240_grid_horizontal_stretch_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Fullscreen%20Grid/White/GBC_1240_grid_horizontal_stretch_1px_white.png) | ![GBC_1240_grid_horizontal_stretch_2px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Fullscreen%20Grid/White/GBC_1240_grid_horizontal_stretch_2px_white.png) | ![GBC_1240_grid_horizontal_stretch_3px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Fullscreen%20Grid/White/GBC_1240_grid_horizontal_stretch_3px_white.png)
+| ![GBC_1240_grid_horizontal_stretch_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Fullscreen%20Grid/White/GBC_1240_grid_horizontal_stretch_1px_white.png) | ![GBC_1240_grid_horizontal_stretch_2px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Fullscreen%20Grid/White/GBC_1240_grid_horizontal_stretch_2px_white.png) | ![GBC_1240_grid_horizontal_stretch_3px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Fullscreen%20Grid/White/GBC_1240_grid_horizontal_stretch_3px_white.png) |
 
-## **GBC/Integer Grid/Black**
+### GBC/Integer Grid/Black
 
 | GBC_1240_grid_integer_1px_black | GBC_1240_grid_integer_2px_black | GBC_1240_grid_integer_3px_black |
 |----|----|----|
-| ![GBC_1240_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Integer%20Grid/Black/GBC_1240_grid_integer_1px_black.png) | ![GBC_1240_grid_integer_2px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Integer%20Grid/Black/GBC_1240_grid_integer_2px_black.png) | ![GBC_1240_grid_integer_3px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Integer%20Grid/Black/GBC_1240_grid_integer_3px_black.png)
+| ![GBC_1240_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Integer%20Grid/Black/GBC_1240_grid_integer_1px_black.png) | ![GBC_1240_grid_integer_2px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Integer%20Grid/Black/GBC_1240_grid_integer_2px_black.png) | ![GBC_1240_grid_integer_3px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBC/Integer%20Grid/Black/GBC_1240_grid_integer_3px_black.png) |
 
-## **GBA/Bezel Fades**
+---
+
+## GBA
+
+### GBA/Bezel Fades
 
 | GBA_1240_bezel_fade_grid_integer_1px_black | GBA_1240_bezel_fade_grid_integer_1px_white | GBA_1240_bezel_fade_only_integer |
 |----|----|----|
-| ![GBA_1240_bezel_fade_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezel%20Fades/GBA_1240_bezel_fade_grid_integer_1px_black.png) | ![GBA_1240_bezel_fade_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezel%20Fades/GBA_1240_bezel_fade_grid_integer_1px_white.png) | ![GBA_1240_bezel_fade_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezel%20Fades/GBA_1240_bezel_fade_only_integer.png)
+| ![GBA_1240_bezel_fade_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezel%20Fades/GBA_1240_bezel_fade_grid_integer_1px_black.png) | ![GBA_1240_bezel_fade_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezel%20Fades/GBA_1240_bezel_fade_grid_integer_1px_white.png) | ![GBA_1240_bezel_fade_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezel%20Fades/GBA_1240_bezel_fade_only_integer.png) |
 
-## **GBA/Bezels/Horizontal Stretch Bezels**
+### GBA/Bezels/Horizontal Stretch Bezels
 
 | GBA_1240_bezel_grid_horizontal_stretch_1px_black | GBA_1240_bezel_grid_horizontal_stretch_1px_white | GBA_1240_bezel_only_horizontal_stretch |
 |----|----|----|
-| ![GBA_1240_bezel_grid_horizontal_stretch_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezels/Horizontal%20Stretch%20Bezels/GBA_1240_bezel_grid_horizontal_stretch_1px_black.png) | ![GBA_1240_bezel_grid_horizontal_stretch_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezels/Horizontal%20Stretch%20Bezels/GBA_1240_bezel_grid_horizontal_stretch_1px_white.png) | ![GBA_1240_bezel_only_horizontal_stretch](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezels/Horizontal%20Stretch%20Bezels/GBA_1240_bezel_only_horizontal_stretch.png)
+| ![GBA_1240_bezel_grid_horizontal_stretch_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezels/Horizontal%20Stretch%20Bezels/GBA_1240_bezel_grid_horizontal_stretch_1px_black.png) | ![GBA_1240_bezel_grid_horizontal_stretch_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezels/Horizontal%20Stretch%20Bezels/GBA_1240_bezel_grid_horizontal_stretch_1px_white.png) | ![GBA_1240_bezel_only_horizontal_stretch](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezels/Horizontal%20Stretch%20Bezels/GBA_1240_bezel_only_horizontal_stretch.png) |
 
-## **GBA/Bezels/Integer Bezels**
+### GBA/Bezels/Integer Bezels
 
 | GBA_1240_bezel_grid_integer_1px_black | GBA_1240_bezel_grid_integer_1px_white | GBA_1240_bezel_only_integer |
 |----|----|----|
-| ![GBA_1240_bezel_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezels/Integer%20Bezels/GBA_1240_bezel_grid_integer_1px_black.png) | ![GBA_1240_bezel_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezels/Integer%20Bezels/GBA_1240_bezel_grid_integer_1px_white.png) | ![GBA_1240_bezel_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezels/Integer%20Bezels/GBA_1240_bezel_only_integer.png)
+| ![GBA_1240_bezel_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezels/Integer%20Bezels/GBA_1240_bezel_grid_integer_1px_black.png) | ![GBA_1240_bezel_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezels/Integer%20Bezels/GBA_1240_bezel_grid_integer_1px_white.png) | ![GBA_1240_bezel_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Bezels/Integer%20Bezels/GBA_1240_bezel_only_integer.png) |
 
-## **GBA/Custom Bezels/Bezel Fades**
+### GBA/Custom Bezels/Bezel Fades
 
 | GBA_1240_OGbezel_fade_grid_integer_1px_black | GBA_1240_OGbezel_fade_grid_integer_1px_white | GBA_1240_OGbezel_fade_only_integer | gba_5x_top_aligned_overlay_fade |
 |----|----|----|----|
-| ![GBA_1240_OGbezel_fade_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezel%20Fades/GBA_1240_OGbezel_fade_grid_integer_1px_black.png) | ![GBA_1240_OGbezel_fade_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezel%20Fades/GBA_1240_OGbezel_fade_grid_integer_1px_white.png) | ![GBA_1240_OGbezel_fade_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezel%20Fades/GBA_1240_OGbezel_fade_only_integer.png) | ![gba_5x_top_aligned_overlay_fade](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezel%20Fades/gba_5x_top_aligned_overlay_fade.png)
+| ![GBA_1240_OGbezel_fade_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezel%20Fades/GBA_1240_OGbezel_fade_grid_integer_1px_black.png) | ![GBA_1240_OGbezel_fade_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezel%20Fades/GBA_1240_OGbezel_fade_grid_integer_1px_white.png) | ![GBA_1240_OGbezel_fade_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezel%20Fades/GBA_1240_OGbezel_fade_only_integer.png) | ![gba_5x_top_aligned_overlay_fade](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezel%20Fades/gba_5x_top_aligned_overlay_fade.png) |
 
-## **GBA/Custom Bezels/Bezels**
+### GBA/Custom Bezels/Bezels
 
-| GBA_1240_bezel_only_integer_holographic | GBA_1240_OGbezel_grid_integer_1px_black | GBA_1240_OGbezel_grid_integer_1px_white | GBA_1240_OGbezel_only_integer | gba_5x_top_aligned_overlay_black | gba_5x_top_aligned_overlay_gray | gba_5x_top_aligned_overlay_indigo
+| GBA_1240_bezel_only_integer_holographic | GBA_1240_OGbezel_grid_integer_1px_black | GBA_1240_OGbezel_grid_integer_1px_white | GBA_1240_OGbezel_only_integer | gba_5x_top_aligned_overlay_black | gba_5x_top_aligned_overlay_gray | gba_5x_top_aligned_overlay_indigo |
 |----|----|----|----|----|----|----|
-![GBA_1240_bezel_only_integer_holographic](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/GBA_1240_bezel_only_integer_holographic.png) | ![GBA_1240_OGbezel_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/GBA_1240_OGbezel_grid_integer_1px_black.png) | ![GBA_1240_OGbezel_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/GBA_1240_OGbezel_grid_integer_1px_white.png) | ![GBA_1240_OGbezel_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/GBA_1240_OGbezel_only_integer.png) | ![gba_5x_top_aligned_overlay_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/gba_5x_top_aligned_overlay_black.png) | ![gba_5x_top_aligned_overlay_gray](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/gba_5x_top_aligned_overlay_gray.png) | ![gba_5x_top_aligned_overlay_ingido](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/gba_5x_top_aligned_overlay_indigo.png)
+| ![GBA_1240_bezel_only_integer_holographic](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/GBA_1240_bezel_only_integer_holographic.png) | ![GBA_1240_OGbezel_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/GBA_1240_OGbezel_grid_integer_1px_black.png) | ![GBA_1240_OGbezel_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/GBA_1240_OGbezel_grid_integer_1px_white.png) | ![GBA_1240_OGbezel_only_integer](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/GBA_1240_OGbezel_only_integer.png) | ![gba_5x_top_aligned_overlay_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/gba_5x_top_aligned_overlay_black.png) | ![gba_5x_top_aligned_overlay_gray](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/gba_5x_top_aligned_overlay_gray.png) | ![gba_5x_top_aligned_overlay_indigo](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Bezels/gba_5x_top_aligned_overlay_indigo.png) |
 
-
-## **GBA/Custom Bezels/Castlevania Bezels**
+### GBA/Custom Bezels/Castlevania Bezels
 
 | GBA_Castlevania_Bezel |
 |----|
-| ![GBA_Castlevania_Bezel](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Castlevania%20Bezels/GBA_Castlevania_Bezel.png)
+| ![GBA_Castlevania_Bezel](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Castlevania%20Bezels/GBA_Castlevania_Bezel.png) |
 
-## **GBA/Custom Bezels/Increased Logo Brightness White Grid/Bezel Fades**
+### GBA/Custom Bezels/Increased Logo Brightness White Grid/Bezel Fades
 
 | GBA_1240_bezel_fade_grid_integer_1px_white_brighter_bezel |
 |----|
-| ![GBA_1240_bezel_fade_grid_integer_1px_white_brighter_bezel](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Increased%20Logo%20Brightness%20White%20Grid/Bezel%20Fades/GBA_1240_bezel_fade_grid_integer_1px_white_brighter_bezel.png)
+| ![GBA_1240_bezel_fade_grid_integer_1px_white_brighter_bezel](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Increased%20Logo%20Brightness%20White%20Grid/Bezel%20Fades/GBA_1240_bezel_fade_grid_integer_1px_white_brighter_bezel.png) |
 
-## **GBA/Custom Bezels/Increased Logo Brightness White Grid/Bezels**
+### GBA/Custom Bezels/Increased Logo Brightness White Grid/Bezels
 
 | GBA_1240_bezel_grid_integer_1px_white_brighter_bezel |
 |----|
-| ![GBA_1240_bezel_grid_integer_1px_white_brighter_bezel](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Increased%20Logo%20Brightness%20White%20Grid/Bezels/GBA_1240_bezel_grid_integer_1px_white_brighter_bezel.png)
+| ![GBA_1240_bezel_grid_integer_1px_white_brighter_bezel](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Increased%20Logo%20Brightness%20White%20Grid/Bezels/GBA_1240_bezel_grid_integer_1px_white_brighter_bezel.png) |
 
-## **GBA/Custom Bezels/Kirby Bezels**
+### GBA/Custom Bezels/Kirby Bezels
 
 | gba_5x_top_aligned_overlay_fade_Kirby |
 |----|
-| ![gba_5x_top_aligned_overlay_fade_Kirby](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Kirby%20Bezels/gba_5x_top_aligned_overlay_fade_Kirby.png)
+| ![gba_5x_top_aligned_overlay_fade_Kirby](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Kirby%20Bezels/gba_5x_top_aligned_overlay_fade_Kirby.png) |
 
-## **GBA/Custom Bezels/Metroid Bezels**
+### GBA/Custom Bezels/Metroid Bezels
 
 | GBA_Metroid_1 | GBA_Metroid_2 |
 |----|----|
-| ![GBA_Metroid_1](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Metroid%20Bezels/GBA_Metroid_1.png) | ![GBA_Metroid_2](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Metroid%20Bezels/GBA_Metroid_2.png)
+| ![GBA_Metroid_1](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Metroid%20Bezels/GBA_Metroid_1.png) | ![GBA_Metroid_2](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Metroid%20Bezels/GBA_Metroid_2.png) |
 
-## **GBA/Custom Bezels/Pokemon Bezels**
+### GBA/Custom Bezels/Pokemon Bezels
 
 | GBA_1240_bezel_only_integer_pikachu | gba_5x_top_aligned_overlay_fade_pokemon | gba_5x_top_aligned_overlay_pokemon |
 |----|----|----|
-| ![GBA_1240_bezel_only_integer_pikachu](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Pokemon%20Bezels/GBA_1240_bezel_only_integer_pikachu.png) | ![gba_5x_top_aligned_overlay_fade_pokemon](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Pokemon%20Bezels/gba_5x_top_aligned_overlay_fade_pokemon.png) | ![gba_5x_top_aligned_overlay_pokemon](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Pokemon%20Bezels/gba_5x_top_aligned_overlay_pokemon.png)
+| ![GBA_1240_bezel_only_integer_pikachu](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Pokemon%20Bezels/GBA_1240_bezel_only_integer_pikachu.png) | ![gba_5x_top_aligned_overlay_fade_pokemon](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Pokemon%20Bezels/gba_5x_top_aligned_overlay_fade_pokemon.png) | ![gba_5x_top_aligned_overlay_pokemon](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Pokemon%20Bezels/gba_5x_top_aligned_overlay_pokemon.png) |
 
-## **GBA/Custom Bezels/Zelda Bezels**
+### GBA/Custom Bezels/Zelda Bezels
 
 | gba_5x_top_aligned_overlay_fade_TLOZ | gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ |
 |----|----|
-| ![gba_5x_top_aligned_overlay_fade_TLOZ](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Zelda%20Bezels/gba_5x_top_aligned_overlay_fade_TLOZ.png) | ![gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Zelda%20Bezels/gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ.png)
+| ![gba_5x_top_aligned_overlay_fade_TLOZ](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Zelda%20Bezels/gba_5x_top_aligned_overlay_fade_TLOZ.png) | ![gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Custom%20Bezels/Zelda%20Bezels/gba_5x_top_aligned_overlay_fade_into_black_bezel_TLOZ.png) |
 
-## **GBA/Horizontal Stretch Grid/Black**
+### GBA/Horizontal Stretch Grid/Black
 
 | GBA_1240_grid_horizontal_stretch_1px_black | GBA_1240_grid_horizontal_stretch_2px_black | GBA_1240_grid_horizontal_stretch_3px_black |
 |----|----|----|
-| ![GBA_1240_grid_horizontal_stretch_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Horizontal%20Stretch%20Grid/Black/GBA_1240_grid_horizontal_stretch_1px_black.png) | ![GBA_1240_grid_horizontal_stretch_2px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Horizontal%20Stretch%20Grid/Black/GBA_1240_grid_horizontal_stretch_2px_black.png) | ![GBA_1240_grid_horizontal_stretch_3px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Horizontal%20Stretch%20Grid/Black/GBA_1240_grid_horizontal_stretch_3px_black.png)
+| ![GBA_1240_grid_horizontal_stretch_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Horizontal%20Stretch%20Grid/Black/GBA_1240_grid_horizontal_stretch_1px_black.png) | ![GBA_1240_grid_horizontal_stretch_2px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Horizontal%20Stretch%20Grid/Black/GBA_1240_grid_horizontal_stretch_2px_black.png) | ![GBA_1240_grid_horizontal_stretch_3px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Horizontal%20Stretch%20Grid/Black/GBA_1240_grid_horizontal_stretch_3px_black.png) |
 
-## **GBA/Horizontal Stretch Grid/White**
+### GBA/Horizontal Stretch Grid/White
 
 | GBA_1240_grid_fullscreen_1px_white | GBA_1240_grid_fullscreen_2px_white | GBA_1240_grid_fullscreen_3px_white |
 |----|----|----|
-| ![GBA_1240_grid_fullscreen_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Horizontal%20Stretch%20Grid/White/GBA_1240_grid_fullscreen_1px_white.png) | ![GBA_1240_grid_fullscreen_2px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Horizontal%20Stretch%20Grid/White/GBA_1240_grid_fullscreen_2px_white.png) | ![GBA_1240_grid_fullscreen_3px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Horizontal%20Stretch%20Grid/White/GBA_1240_grid_fullscreen_3px_white.png)
+| ![GBA_1240_grid_fullscreen_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Horizontal%20Stretch%20Grid/White/GBA_1240_grid_fullscreen_1px_white.png) | ![GBA_1240_grid_fullscreen_2px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Horizontal%20Stretch%20Grid/White/GBA_1240_grid_fullscreen_2px_white.png) | ![GBA_1240_grid_fullscreen_3px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Horizontal%20Stretch%20Grid/White/GBA_1240_grid_fullscreen_3px_white.png) |
 
-## **GBA/Integer Grid/Black**
+### GBA/Integer Grid/Black
 
 | GBA_1240_grid_integer_1px_black | GBA_1240_grid_integer_2px_black | GBA_1240_grid_integer_3px_black |
 |----|----|----|
-| ![GBA_1240_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Integer%20Grid/Black/GBA_1240_grid_integer_1px_black.png) | ![GBA_1240_grid_integer_2px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Integer%20Grid/Black/GBA_1240_grid_integer_2px_black.png) | ![GBA_1240_grid_integer_3px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Integer%20Grid/Black/GBA_1240_grid_integer_3px_black.png)
+| ![GBA_1240_grid_integer_1px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Integer%20Grid/Black/GBA_1240_grid_integer_1px_black.png) | ![GBA_1240_grid_integer_2px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Integer%20Grid/Black/GBA_1240_grid_integer_2px_black.png) | ![GBA_1240_grid_integer_3px_black](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Integer%20Grid/Black/GBA_1240_grid_integer_3px_black.png) |
 
-## **GBA/Integer Grid/White**
+### GBA/Integer Grid/White
 
 | GBA_1240_grid_integer_1px_white | GBA_1240_grid_integer_2px_white | GBA_1240_grid_integer_3px_white |
 |----|----|----|
-| ![GBA_1240_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Integer%20Grid/White/GBA_1240_grid_integer_1px_white.png) | ![GBA_1240_grid_integer_2px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Integer%20Grid/White/GBA_1240_grid_integer_2px_white.png) | ![GBA_1240_grid_integer_3px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Integer%20Grid/White/GBA_1240_grid_integer_3px_white.png)
+| ![GBA_1240_grid_integer_1px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Integer%20Grid/White/GBA_1240_grid_integer_1px_white.png) | ![GBA_1240_grid_integer_2px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Integer%20Grid/White/GBA_1240_grid_integer_2px_white.png) | ![GBA_1240_grid_integer_3px_white](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/GBA/Integer%20Grid/White/GBA_1240_grid_integer_3px_white.png) |
 
-## **PSX**
+---
+
+## PSX
 
 | PSX |
 |----|
-| ![PSX](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/PSX/PSX.png)
+| ![PSX](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/PSX/PSX.png) |
 
-## **DS**
+---
+
+## DS
 
 | DS_Fullscreen_Logo |
 |----|
-| ![DS_Fullscreen_Logo](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DS/DS_Fullscreen_Logo.png)
+| ![DS_Fullscreen_Logo](https://github.com/SkyWalker541/Retroid-Pocket-Classic-Overlays/blob/main/DS/DS_Fullscreen_Logo.png) |
