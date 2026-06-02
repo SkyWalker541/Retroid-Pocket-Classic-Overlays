@@ -21,7 +21,7 @@
 |------|--------|
 | Feb 9, 2026 | Added STN overlay for DMG — integer scale only |
 | Feb 6, 2026 | Added STN and Pixel Pop overlays for GBC — integer scale only |
-
+| Jun 1, 2026 | Added PICO-8 overlay with color options |
 ---
 
 ## Setup
